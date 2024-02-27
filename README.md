@@ -15,6 +15,10 @@ Calculadora de gastos:
 
 Este código es un programa de seguimiento de gastos. Permite al usuario agregar gastos, listar todos los gastos, mostrar el total de gastos y filtrar los gastos por categoría. Muestra un menú al usuario y realiza la acción correspondiente según la elección del usuario. El programa se ejecuta en un bucle hasta que el usuario elige salir.
 
+camelCase a snake_case:
+
+Este código convierte una cadena de texto en formato CamelCase o PascalCase a formato snake_case.
+
 # Informacion Importante
 
 Para poder ejecutar el archivo py primero descargaremos el que queramos usar, despues tendremos que abrirlo en nuestro software de confianza para programar o podemos instalar una extension de python para poder ejecutarlo en un cmd.
