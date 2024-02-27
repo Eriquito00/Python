@@ -19,6 +19,10 @@ camelCase a snake_case:
 
 Este código convierte una cadena de texto en formato CamelCase o PascalCase a formato snake_case.
 
+MAYUS o minus:
+
+Este código es un programa simple que convierte texto ingresado por el usuario a mayúsculas o minúsculas.
+
 # Informacion Importante
 
 Para poder ejecutar el archivo py primero descargaremos el que queramos usar, despues tendremos que abrirlo en nuestro software de confianza para programar o podemos instalar una extension de python para poder ejecutarlo en un cmd.
