@@ -1,14 +1,8 @@
-import string
-
 def convert_to_mayus_or_minus(text_mayus, text_minus):
     if text_mayus:
         return text_mayus.upper()
     elif text_minus:
         return text_minus.lower()
-    
-    letras_raras = 'áéíóúüñÁÉÍÓÚÜÑ'
-    if text_mayus or text_minus != string.ascii_letters or ' ' or letras_raras:
-        return 'Has ingresado caracteres no validos, intenta de nuevo.'
 
 def main():
     while True:
