@@ -7,7 +7,6 @@
 ### FreeCodeCamp
 |Proyecto|Descripcion|
 |-----|-----|
-
 |Strings|Primero, solicita al usuario que ingrese un texto para cifrar y establece una clave personalizada. Luego, cifra el texto ingresado utilizando la clave y finalmente lo descifra, mostrando ambos resultados.|
 |Strings y numeros|Este código en Python verifica la validez de un número de tarjeta de crédito utilizando el algoritmo de Luhn. Primero, elimina los guiones y espacios del número de la tarjeta. Luego, suma los dígitos en posiciones impares y los dígitos dobles en posiciones pares (restando 9 a cualquier resultado mayor a 9). Si la suma total es un múltiplo de 10, la tarjeta es válida; de lo contrario, es inválida.|
 |Calculadora de gastos|Este código es un programa de seguimiento de gastos. Permite al usuario agregar gastos, listar todos los gastos, mostrar el total de gastos y filtrar los gastos por categoría. Muestra un menú al usuario y realiza la acción correspondiente según la elección del usuario. El programa se ejecuta en un bucle hasta que el usuario elige salir.|
