@@ -6,6 +6,7 @@
 |Calculadora de gastos|Este código es un programa de seguimiento de gastos. Permite al usuario agregar gastos, listar todos los gastos, mostrar el total de gastos y filtrar los gastos por categoría. Muestra un menú al usuario y realiza la acción correspondiente según la elección del usuario. El programa se ejecuta en un bucle hasta que el usuario elige salir.|
 |camelCase a snake_case|Este código convierte una cadena de texto en formato CamelCase o PascalCase a formato snake_case.|
 |MAYUS o minus|Este código es un programa simple que convierte texto ingresado por el usuario a mayúsculas o minúsculas.|
+|Password Generator|Este es un programa de Python que genera una contraseña segura y aleatoria para ti. Cuando ejecutas este programa, crea una contraseña de 16 caracteres por defecto. Esta contraseña incluirá al menos un número, un carácter especial, una letra mayúscula y una letra minúscula.|
 
 # Informacion Importante
 
