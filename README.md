@@ -21,7 +21,9 @@ Para poder ejecutar el archivo py primero descargaremos el que queramos usar, de
 
 ![Python logo](https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/python.png)
 
-<center>
-  <h2>Support me</h2>
-  <a href="https://www.buymeacoffee.com/eriquito00"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
-</center>
+<div style="text-align:center;">
+  <h2 style="text-align:center;">Support me</h2>
+  <a href="https://www.buymeacoffee.com/eriquito00" style="display: block; margin: auto;">
+    <img src="https://raw.githubusercontent.com/Eriquito00/Eriquito00/main/img/coffee.png" alt="Buy Me A Coffee" width="250">
+  </a>
+</div>
